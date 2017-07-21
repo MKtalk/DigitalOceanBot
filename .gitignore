@@ -1,0 +1,4 @@
+bothub.yaml
+dist/
+*.pyc
+__pycache__
