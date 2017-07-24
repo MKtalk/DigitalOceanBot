@@ -1,3 +1,6 @@
 # DigitalOceanBot
-[Python으로 Telegram 챗봇 시작하기](https://medium.com/bothub-studio/python%EC%9C%BC%EB%A1%9C-telegram-%EC%B1%97%EB%B4%87-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-617f222dd393)
-BotHub.Studio
+
+[Telegram 챗봇으로 DigitalOcean 제어하기](https://medium.com/bothub-studio/) 실습 예제
+
+[BotHub.Studio]https://bothub.studio/?utm_source=medium&utm_medium=display&utm_campaign=python-digitalocean) 를 사용해서 DigitalOcean의 Droplet을 제어할 수 있습니다.
+Telegram 메신저를 기준으로 테스트 되었습니다.
